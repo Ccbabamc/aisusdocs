@@ -1,0 +1,42 @@
+{
+  "config": {
+    "username": "SEVINC SAKIRE TANRITANIR",
+    "password": "Sevinc2025",
+    "captcha_api_key": "c4c8b29738128733c40c1ed374b42a57",
+    "telegram_chat_id": "6350901087",
+    "check_interval_minutes": 10,
+    "auto_refresh_session": true,
+    "save_screenshots": true,
+    "headless": false
+  },
+  "security_questions": {
+    "doğduğunuz kasabanın/şehrin adı nedir?": "Ankara",
+    "eşinizle nerede tanıştınız?": "otobus",
+    "büyüdüğünüz yolun/sokağın adı nedir?": "Sokak",
+    "ilk evcil hayvanınızın adı nedir?": "Karabaş",
+    "ilkokul öğretmeninizin soyadı nedir?": "Yılmaz",
+    "annenizin kızlık soyadı nedir?": "Demir",
+    "en sevdiğiniz renk nedir?": "Mavi"
+  },
+  "proxy": {
+    "enabled": true,
+    "server": "geo.iproyal.com:12321",
+    "username": "nIThshN9KUlggwtl",
+    "password": "uxFKVUUKGCotE4Da_country-tr_session-Hl5zNndA_lifetime-10s"
+  },
+  "browser_config": {
+    "headless": true,
+    "slow_mo": 100,
+    "viewport": {
+      "width": 1366,
+      "height": 768
+    },
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "urls": {
+    "base_url": "https://www.ustraveldocs.com",
+    "turkish_base": "https://www.ustraveldocs.com/tr/tr",
+    "visa_entry": "https://www.ustraveldocs.com/tr/tr/nonimmigrant-visa",
+    "login_fallback": "https://www.usvisascheduling.com/tr-TR/signin"
+  }
+}
